@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ThirdPersonController.js">
+    <Files>
+      <File FileName="Assets\Scripts\DashParticleController.js" Line="21" Column="47" />
+      <File FileName="Assets\Scripts\ThirdPersonController.js" Line="418" Column="2" />
+      <File FileName="Assets\Scripts\Respawn.js" Line="22" Column="1" />
+      <File FileName="Assets\Scripts\ThirdPersonStatus.js" Line="87" Column="52" />
+      <File FileName="Assets\Scripts\FalloutDeath.js" Line="23" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
