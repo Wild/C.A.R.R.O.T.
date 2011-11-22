@@ -153,6 +153,13 @@ function UpdateSmoothedMovementDirection ()
 	v = Input.GetAxisRaw("Vertical");
 	h = Input.GetAxisRaw("Horizontal");
 
+	// Reverses turning side during backward moving
+	if (v < 0) {
+		h *= -1;
+	}
+
+	//Debug.Log("vertical = " + v + "horizontal = " + h);
+
 	// Are we moving backwards or looking backwards
 	if (v < -0.2)
 		movingBack = true;
@@ -357,6 +364,10 @@ function Update() {
 
 	// Apply jumping logic
 	ApplyJumping ();
+	
+	if (v == 0) {
+		moveSpeed = 0;
+	}
 	
 	// Calculate actual motion
 	var movement;

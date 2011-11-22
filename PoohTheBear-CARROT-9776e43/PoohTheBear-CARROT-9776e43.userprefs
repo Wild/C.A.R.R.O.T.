@@ -1,8 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AIScript.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ThirdPersonController.js">
     <Files>
-      <File FileName="Assets/AIScript.js" Line="100" Column="48" />
+      <File FileName="Assets/Scripts/ThirdPersonController.js" Line="156" Column="4" />
+      <File FileName="Assets/AIScript.js" Line="104" Column="15" />
       <File FileName="Assets/Standard Assets/Character Controllers/Sources/Scripts/ThirdPersonController.js" Line="304" Column="18" />
       <File FileName="Assets/Scripts/DoubleJumpParticleController.js" Line="7" Column="2" />
       <File FileName="Assets/Scripts/FalloutDeath.js" Line="2" Column="42" />
